@@ -6,3 +6,4 @@ Homepage for a fictional bakery, created for [CS50 Introduction to Computer Scie
 - HTML
 - CSS
 - Javascript
+- Bootstrap
