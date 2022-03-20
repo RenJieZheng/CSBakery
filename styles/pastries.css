@@ -1,6 +1,6 @@
 header {
     padding: 5%;
-    background-image: url("pastries.jpg");
+    background-image: url("../images/pastries.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }

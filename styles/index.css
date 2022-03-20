@@ -1,6 +1,6 @@
 header {
     padding: 10%;
-    background-image: url("homebackground.jpg");
+    background-image: url("../images/homebackground.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }

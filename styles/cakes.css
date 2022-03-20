@@ -1,6 +1,6 @@
 header {
     padding: 5%;
-    background-image: url("cakes.jpg");
+    background-image: url("../images/cakes.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
