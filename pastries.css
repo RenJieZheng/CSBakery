@@ -1,0 +1,55 @@
+header {
+    padding: 5%;
+    background-image: url("pastries.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    font-size: 7vw;
+    font-weight: 500;
+    color: white;
+    text-align: center;
+}
+
+h2{
+    margin-top: 2%;
+    text-align: center;
+}
+
+.slideshow {
+    padding: 3%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    display: none;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#prev, #next {
+    margin: 1%;
+
+}
+
+.dots {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 5px;
+  background-color: #bbb;
+  border-radius: 50%;
+}

@@ -1,0 +1,30 @@
+nav {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    background-color:#a7d9ff;
+}
+
+nav a {
+    text-align: center;
+    color: white;
+    padding:20px 40px;
+    font-size: 1.5vw;
+}
+
+nav a:hover {
+    background-color: white;
+    color: black;
+}
+
+@media screen and (max-width: 800px) {
+  nav {
+      overflow: auto;
+      flex-wrap: wrap;
+  }
+  nav a {
+      font-size: 5vw;
+      padding: 6px 10px;
+  }
+}
